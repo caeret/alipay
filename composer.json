@@ -1,0 +1,20 @@
+{
+  "name": "overnil/alipay",
+  "description": "Alipay payment library.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "overnil",
+      "email": "me@overnil.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Overnil\\Alipay\\": "src/Overnil/Alipay"
+    }
+  }
+}
