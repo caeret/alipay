@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\Alipay\Exception;
+namespace Gaemma\Alipay\Exception;
 
 
 use Exception;

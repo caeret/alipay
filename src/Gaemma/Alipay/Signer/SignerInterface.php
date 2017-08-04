@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\Alipay\Signer;
+namespace Gaemma\Alipay\Signer;
 
 
 interface SignerInterface

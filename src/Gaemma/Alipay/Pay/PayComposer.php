@@ -1,11 +1,11 @@
 <?php
 
-namespace Overnil\Alipay\Pay;
+namespace Gaemma\Alipay\Pay;
 
 
-use Overnil\Alipay\Alipay;
-use Overnil\Alipay\Signer\SignerInterface;
-use Overnil\Alipay\Utils;
+use Gaemma\Alipay\Alipay;
+use Gaemma\Alipay\Signer\SignerInterface;
+use Gaemma\Alipay\Utils;
 
 class PayComposer
 {

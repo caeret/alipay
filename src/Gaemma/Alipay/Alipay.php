@@ -1,13 +1,13 @@
 <?php
 
 
-namespace Overnil\Alipay;
+namespace Gaemma\Alipay;
 
 
-use Overnil\Alipay\Exception\AlipayException;
-use Overnil\Alipay\Pay\PayComposer;
-use Overnil\Alipay\Signer\SignerInterface;
-use Overnil\Alipay\Verifier\Verifier;
+use Gaemma\Alipay\Exception\AlipayException;
+use Gaemma\Alipay\Pay\PayComposer;
+use Gaemma\Alipay\Signer\SignerInterface;
+use Gaemma\Alipay\Verifier\Verifier;
 
 class Alipay
 {

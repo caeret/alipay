@@ -1,12 +1,12 @@
 {
-  "name": "overnil/alipay",
+  "name": "gaemma/alipay",
   "description": "Alipay payment library.",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "overnil",
-      "email": "me@overnil.com"
+      "name": "gaemma",
+      "email": "me@gaemma.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Overnil\\Alipay\\": "src/Overnil/Alipay"
+      "Gaemma\\Alipay\\": "src/Gaemma/Alipay"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\Alipay;
+namespace Gaemma\Alipay;
 
 
 class Utils

@@ -1,9 +1,9 @@
 <?php
 
-namespace Overnil\Alipay;
+namespace Gaemma\Alipay;
 
 
-use Overnil\Alipay\Exception\HttpException;
+use Gaemma\Alipay\Exception\HttpException;
 
 class CurlHttpClient implements HttpClientInterface
 {

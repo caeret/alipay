@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\Alipay\Signer;
+namespace Gaemma\Alipay\Signer;
 
 
 class MD5Signer implements SignerInterface

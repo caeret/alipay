@@ -1,10 +1,10 @@
 <?php
 
-namespace Overnil\Alipay\Verifier;
+namespace Gaemma\Alipay\Verifier;
 
 
-use Overnil\Alipay\Alipay;
-use Overnil\Alipay\Utils;
+use Gaemma\Alipay\Alipay;
+use Gaemma\Alipay\Utils;
 
 class Verifier
 {
